@@ -9,6 +9,9 @@ Displays current / burn / freeze / unfreeze/ douse fire temperature number on to
 ## Elimination with Waves
 Unlocks both normal and scripted waves after a Dreadnought spawn.
 
+## Sabotage with Waves
+Unblocks normal waves during Caretaker fight.
+
 ## ActorMonitor
 Intended to provide additional info about game entities. As of now, you can press \~, aim at a bug, press Ctrl+\~ and then it will show Status Effects and amount of instances for each of them above the bug. Currently on hold. Very early stage.
 
