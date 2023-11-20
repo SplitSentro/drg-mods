@@ -6,6 +6,9 @@ Provides many QoL features for game mode management. Currently WIP. Need feedbac
 ## TemperatureNumber
 Displays current / burn / freeze / unfreeze/ douse fire temperature number on top of a regular enemy temperature icon.
 
+## OverchargerIndicator
+Displays Coil Gun's charged damage, supports Controlled Magnetic Flow & Overcharger.
+
 ## Elimination with Waves
 Unlocks both normal and scripted waves after a Dreadnought spawn. Server-only.
 
