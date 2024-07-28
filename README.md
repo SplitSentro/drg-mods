@@ -1,10 +1,13 @@
 # SplitSentro's DRG Mods
 
-## RestartMission
-Provides many QoL features for game mode management. Currently WIP. Need feedback.
+## Restart Mission
+Provides many QoL features for game mode management. Currently broken :(
 
-## TemperatureNumber
+## Temperature Number
 Displays current / burn / freeze / unfreeze/ douse fire temperature number on top of a regular enemy temperature icon.
+
+## Health Number
+Displays current / max health next to creature's healthbar. Provides colored healthbar.
 
 ## OverchargerIndicator
 Displays Coil Gun's charged damage, supports Controlled Magnetic Flow & Overcharger.
