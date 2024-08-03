@@ -9,6 +9,9 @@ Displays current / burn / freeze / unfreeze/ douse fire temperature number on to
 ## Health Number
 Displays current / max health next to creature's healthbar. Provides colored healthbar.
 
+## Status Effects Number
+Shows a number of stacks for stacking statuc effects.
+
 ## OverchargerIndicator
 Displays Coil Gun's charged damage, supports Controlled Magnetic Flow & Overcharger.
 
